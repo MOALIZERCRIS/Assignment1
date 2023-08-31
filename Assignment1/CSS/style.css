@@ -1,0 +1,18 @@
+body{
+    width: 960px;
+    margin: 0, auto;
+    padding: 100px;
+     align-content: center;
+     text-align: justify;
+     font-size:large;
+    
+}
+
+img{
+    float: left;
+    margin: 0 15px auto;
+    image-resolution: 100;
+}
+p{
+    align-content: center;
+}
